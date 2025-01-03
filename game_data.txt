@@ -1,0 +1,186 @@
+Date & Time: 2025-01-02 20:10:18.414635
+Moves:
+1. Player 1
+2. Player 2
+3. Player 1
+4. Player 2
+5. Player 1
+Result: Player 1 Wins
+==============================
+Date & Time: 2025-01-02 20:11:57.427175
+Moves:
+1. Player 1
+2. Player 2
+3. Player 1
+4. Player 2
+5. Player 1
+6. Player 2
+7. Player 1
+8. Player 2
+9. Player 1
+Result: Player 1 Wins
+==============================
+Date & Time: 2025-01-02 20:12:18.726210
+Moves:
+1. Player 1
+2. Player 2
+3. Player 1
+4. Player 2
+5. Player 1
+6. Player 2
+Result: Player 2 Wins
+==============================
+Date & Time: 2025-01-02 20:12:50.532699
+Moves:
+1. Player 1
+2. Player 2
+3. Player 1
+4. Player 2
+5. Player 1
+6. Player 2
+7. Player 1
+8. Player 2
+9. Player 1
+Result: Draw
+==============================
+Date & Time: 2025-01-02 20:50:12.207265
+Moves:
+1. Player 1
+2. Player 2
+3. Player 1
+4. Player 2
+5. Player 1
+6. Player 2
+7. Player 1
+8. Player 2
+9. Player 1
+Result: Player 1 Wins
+==============================
+Date & Time: 2025-01-03 08:01:05.959050
+Moves:
+1. Player 1
+2. Player 2
+3. Player 1
+4. Player 2
+5. Player 1
+6. Player 2
+7. Player 1
+8. Player 2
+9. Player 1
+Result: Player 1 Wins
+==============================
+Date & Time:2025-01-03 11:11:55.354673
+Moves:
+1.Player 1
+2.Player 2
+3.Player 1
+4.Player 2
+5.Player 1
+6.Player 2
+7.Player 1
+Result:Player 1 Wins
+==============================
+Date & Time:2025-01-03 11:14:42.015269
+Moves:
+1.Player 1: 1
+2.Player 2: 2
+3.Player 1: 3
+4.Player 2: 4
+5.Player 1: 5
+6.Player 2: 6
+7.Player 1: 7
+Result:Player 1 Wins
+==============================
+Date & Time:2025-01-03 11:23:21.271852
+Moves:
+1.Player 1: 2
+2.Player 2: 1
+3.Player 1: 5
+4.Player 2: 4
+5.Player 1: 6
+6.Player 2: 7
+Result:Player 2 Wins
+==============================
+Date & Time:2025-01-03 21:41:06.307123
+Moves:
+1.Player 1: 1
+2.Player 2: 2
+3.Player 1: None
+4.Player 2: None
+5.Player 1: 5
+6.Player 2: 6
+7.Player 1: 7
+Result:Player 1 Wins
+==============================
+Date & Time:2025-01-03 21:42:26.781371
+Moves:
+1.Player 1: 1
+2.Player 2: 2
+3.Player 1: 3
+4.Player 2: 5
+5.Player 1: 4
+6.Player 2: 8
+Result:Player 2 Wins
+==============================
+Date & Time:2025-01-03 21:43:19.394173
+Moves:
+1.Player 1: 1
+2.Player 2: 2
+3.Player 1: 3
+4.Player 2: 4
+5.Player 1: 5
+6.Player 2: 6
+7.Player 1: 8
+8.Player 2: 7
+9.Player 1: 9
+Result:Player 1 Wins
+==============================
+Date & Time:2025-01-03 21:43:53.576382
+Moves:
+1.Player 1: 1
+2.Player 2: 2
+3.Player 1: 3
+4.Player 2: 4
+5.Player 1: 6
+6.Player 2: 5
+7.Player 1: 7
+8.Player 2: 9
+9.Player 1: 8
+Result:Draw
+==============================
+Date & Time:2025-01-03 21:50:42.951657
+Moves:
+1.Player 1: 1
+2.Player 2: 2
+3.Player 1: 3
+4.Player 2: None
+5.Player 1: 5
+6.Player 2: 6
+7.Player 1: 7
+Result:Player 1 Wins
+==============================
+Date & Time:2025-01-03 21:52:02.612582
+Moves:
+1.Player 1: 1
+2.Player 2: 2
+3.Player 1: 3
+4.Player 2: 4
+5.Player 1: 7
+6.Player 2: 5
+7.Player 1: 8
+8.Player 2: 6
+Result:Player 2 Wins
+==============================
+Date & Time:2025-01-03 21:53:03.013337
+Moves:
+1.Player 1: 1
+2.Player 2: 2
+3.Player 1: 3
+4.Player 2: 4
+5.Player 1: 6
+6.Player 2: 5
+7.Player 1: 7
+8.Player 2: 9
+9.Player 1: 8
+Result:Draw
+==============================
